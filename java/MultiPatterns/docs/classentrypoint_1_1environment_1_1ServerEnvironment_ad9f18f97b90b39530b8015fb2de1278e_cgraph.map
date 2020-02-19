@@ -1,0 +1,11 @@
+<map id="entrypoint.environment.ServerEnvironment.createVirtualProcessingUnits" name="entrypoint.environment.ServerEnvironment.createVirtualProcessingUnits">
+<area shape="rect" id="node1" title=" " alt="" coords="5,201,273,243"/>
+<area shape="rect" id="node2" href="$classentrypoint_1_1SystemFacade.html#a4268eba5b0c21ec4537d2bb4f0bd139c" title=" " alt="" coords="321,5,515,47"/>
+<area shape="rect" id="node3" href="$classentrypoint_1_1SystemFacade.html#ab0b0c447ce7cce50f0071f363b7fcd81" title=" " alt="" coords="321,71,515,112"/>
+<area shape="rect" id="node4" href="$classprocessing_1_1IntelFabric.html#ac69209cf21a5d0795950be69e560dbb0" title=" " alt="" coords="332,136,504,177"/>
+<area shape="rect" id="node6" href="$interfaceprocessing_1_1ProcessingUnitFabric.html#a0b9dacb87f7bf9d8a68ab640cf8e35f0" title=" " alt="" coords="329,201,507,243"/>
+<area shape="rect" id="node7" href="$interfaceprocessing_1_1ProcessingUnitFabric.html#a7804fca37a836726e8307d91e52a1063" title=" " alt="" coords="329,267,507,308"/>
+<area shape="rect" id="node8" href="$classentrypoint_1_1SystemFacade.html#ac0b15c98ed01adb0e087a964fab09c3e" title=" " alt="" coords="321,332,515,373"/>
+<area shape="rect" id="node9" href="$classentrypoint_1_1SystemFacade.html#a8c802521850f26f1b86f3ba347c5a8aa" title=" " alt="" coords="321,397,515,439"/>
+<area shape="rect" id="node5" href="$classprocessing_1_1IntelFabric.html#a9de625d72113366ddbab4b252657985e" title=" " alt="" coords="563,136,741,177"/>
+</map>

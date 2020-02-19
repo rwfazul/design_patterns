@@ -1,0 +1,8 @@
+<map id="storage.types.FileComponent" name="storage.types.FileComponent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,199,133"/>
+<area shape="rect" id="node2" href="$classstorage_1_1FileComposite.html" title=" " alt="" coords="251,5,405,32"/>
+<area shape="rect" id="node3" href="$classstorage_1_1types_1_1AudioFile.html" title=" " alt="" coords="249,56,407,83"/>
+<area shape="rect" id="node4" href="$classstorage_1_1types_1_1ImageFile.html" title=" " alt="" coords="247,107,409,133"/>
+<area shape="rect" id="node5" href="$classstorage_1_1types_1_1TextFile.html" title=" " alt="" coords="252,157,404,184"/>
+<area shape="rect" id="node6" href="$classstorage_1_1types_1_1VideoFile.html" title=" " alt="" coords="249,208,407,235"/>
+</map>

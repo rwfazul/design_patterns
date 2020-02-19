@@ -1,0 +1,5 @@
+<map id="processing.ProcessingUnitFabric" name="processing.ProcessingUnitFabric">
+<area shape="rect" id="node1" title=" " alt="" coords="81,5,260,47"/>
+<area shape="rect" id="node2" href="$classprocessing_1_1AMDFabric.html" title=" " alt="" coords="5,95,160,121"/>
+<area shape="rect" id="node3" href="$classprocessing_1_1IntelFabric.html" title=" " alt="" coords="185,95,335,121"/>
+</map>

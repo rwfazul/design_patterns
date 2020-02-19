@@ -1,0 +1,12 @@
+<map id="entrypoint.SystemFacade" name="entrypoint.SystemFacade">
+<area shape="rect" id="node1" title=" " alt="" coords="680,107,851,133"/>
+<area shape="rect" id="node2" href="$classprocessing_1_1units_1_1GPU.html" title=" " alt="" coords="355,5,505,32"/>
+<area shape="rect" id="node3" href="$classprocessing_1_1units_1_1ClockInterval.html" title=" " alt="" coords="5,32,204,59"/>
+<area shape="rect" id="node4" href="$classprocessing_1_1units_1_1CPU.html" title=" " alt="" coords="355,56,505,83"/>
+<area shape="rect" id="node5" href="$classstorage_1_1FileComposite.html" title=" " alt="" coords="353,107,507,133"/>
+<area shape="rect" id="node6" href="$classstorage_1_1types_1_1FileComponent.html" title=" " alt="" coords="8,101,201,128"/>
+<area shape="rect" id="node7" title=" " alt="" coords="20,153,189,194"/>
+<area shape="rect" id="node8" href="$classoperational_1_1systems_1_1OperatingSystem.html" title=" " alt="" coords="331,158,529,199"/>
+<area shape="rect" id="node9" href="$classvisualization_1_1AbstractWindow.html" title=" " alt="" coords="333,224,527,251"/>
+<area shape="rect" id="node10" href="$interfacevisualization_1_1ConcreteWindow.html" title=" " alt="" coords="5,224,204,251"/>
+</map>

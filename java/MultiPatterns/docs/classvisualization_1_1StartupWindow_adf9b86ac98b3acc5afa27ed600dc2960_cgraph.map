@@ -1,0 +1,6 @@
+<map id="visualization.StartupWindow.StartupWindow" name="visualization.StartupWindow.StartupWindow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$classvisualization_1_1StartupWindow.html#aaa3f95ab44f2589327f1ada7ccbb4e3c" title=" " alt="" coords="244,13,463,39"/>
+<area shape="rect" id="node3" href="$classvisualization_1_1AbstractWindow.html#a7c060667542d8ce76557566e28531249" title=" " alt="" coords="511,5,737,47"/>
+<area shape="rect" id="node4" href="$interfacevisualization_1_1ConcreteWindow.html#ab7b86918c0af340887524b96bb0539c8" title=" " alt="" coords="785,5,1016,47"/>
+</map>
